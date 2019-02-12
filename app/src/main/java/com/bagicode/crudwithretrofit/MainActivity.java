@@ -11,6 +11,12 @@ import com.bagicode.crudwithretrofit.view.fragment.ReadFragment;
 import com.crashlytics.android.Crashlytics;
 import io.fabric.sdk.android.Fabric;
 
+
+/*
+* referensi bagicode.com
+*
+* */
+
 public class MainActivity extends AppCompatActivity {
 
     private BottomNavigationView.OnNavigationItemSelectedListener mOnNavigationItemSelectedListener
